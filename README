@@ -1,0 +1,13 @@
+#
+# Creating People Groups Using Genetic Algorithms (By Their Similar Interests) 
+# Copyright (c) 2011 Serdar Yildirim [me@serdaryildirim.com]
+# No Licence.
+#
+
+# Used to create sub groups from a large list of people according to their interests using Genetic Algorithm.
+
+# Currently includes implementation of 3 different crossover types (1point, 2point and uniform)
+# Ranks selection and random selection
+# Elitism
+
+# Please find the related blog post here: http://serdaryildirim.net/ai/creating-people-groups-using-genetic-algorithm.html
